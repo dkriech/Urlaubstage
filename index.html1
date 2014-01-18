@@ -1,0 +1,62 @@
+ <html>
+<head>
+<title>
+Mein HTML
+</title>
+</head>
+<body bgcolor="yellow">
+<h1> E-Phase </h1>
+<b><u><i> Seiteninhalt </b></u></i>
+<font color= "black"><a href="http://www.youtube.com/"></font> Youtube </a> <br>
+<img src= "http://www.connox.de/media/eva-solo/Blumentopf/blumentopf-grau-original.jpg">
+<ol type="A" start="3">
+<li> Schinken </li>
+<li> Wurst </li>
+</ol>
+<ul type="I">
+<font color= "green"><li> Schnitzel </li></font>
+<li> Salz </li>
+</ul>
+<table border="1" >
+<caption>
+<b>Stundenplan </b>
+</caption>
+<tr>
+<th> Montag </th>
+<th> Dienstag </th>
+<th> Mittwoch </th>
+<th> Donnerstag </th>
+<th> Freitag </th>
+</tr>
+
+<tr>
+<td> frei </td>
+<td rowspan="3"> Englisch </td>
+<td rowspan="2"> Geschichte </td>
+<td rowspan="3"> Frei </td>
+<td> Frei </td>
+</tr>
+
+<tr>
+<td rowspan="2"> Bio </td>
+<td rowspan="2"> Mathe </td>
+</tr>
+
+<tr>
+<td> Musik </td>
+</tr>
+
+<tr>
+<td rowspan="2"> Powi </td>
+<td rowspan="2"> Mathe </td>
+<td rowspan="2"> Deutsch </td>
+<td> Informatik </td>
+<td> Frei </td>
+</tr>
+
+<tr>
+<td> Informatik </td>
+<td> Geschichte </td>
+</tr>
+</body>
+</html> 
